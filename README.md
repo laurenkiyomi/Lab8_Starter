@@ -13,5 +13,8 @@
     for the length of a message.</li>
 </ol>
 
-Tests:
+Test Results:
 
+<img width="1621" alt="tests_screenshot_pt1" src="https://user-images.githubusercontent.com/86620096/202860040-2b0f1d7f-bf03-4c4c-9bbc-6a3bbdb36cd7.png">
+<img width="1669" alt="tests_screenshot_pt2" src="https://user-images.githubusercontent.com/86620096/202860043-def3dfc8-6d9e-4775-81c5-fcb143978d35.png">
+<img width="1520" alt="tests_screenshot_pt3" src="https://user-images.githubusercontent.com/86620096/202860045-97dd3293-af20-4950-aaf6-e3a5ca14999c.png">
